@@ -1,5 +1,18 @@
-<h1>Hi, I'm Getinet! <br/><a href="https://github.com/Getinet309">Programmer</a>, <a href="https://www.linkedin.com/in/getinet-asimare-a34680214/">Frontend Developer</a>, <a href="https://www.youtube.com/@getinetasimare2860">YouTuber</a></h1>
- 
+<h1>Hi there, I'm Getinet! <br/><a href="https://github.com/Getinet309">Programmer</a>, <a href="https://www.linkedin.com/in/getinet-asimare-a34680214/">Frontend Developer</a>, <a href="https://www.youtube.com/@getinetasimare2860">YouTuber</a></h1>
+<h2>Skills</h2>
+ <p>
+  <ul>
+  <li>Python</li>
+   <li>MATLAB</li>
+   <li>HTML, CSS and Javascript</li>
+   </ul>
+ </p>
+ <h2>Previous Works</h2>
+ <ul>
+  <li>Transcribing Geez Texsts</li>
+  <li>TEI at Betemathahft University of Hamburg</li>
+  <li>Matlab Projects</li>
+ </ul>
  <h2> 🤳 Connect with me:</h2>
  
  [<img align="left" alt="GetinetAsimare | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
